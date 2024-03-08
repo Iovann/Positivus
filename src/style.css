@@ -1,0 +1,14 @@
+@media (max-width: 360px) {
+    p.menup{
+        font-size: 1em !important;
+    }
+    #hmg,
+    #hmg1,
+    #hmg2,
+    #hmg3,
+    #hmg4,
+    #hmg5,
+    .moins{
+        width: 300%;
+    }
+}

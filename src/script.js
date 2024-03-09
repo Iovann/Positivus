@@ -20,7 +20,7 @@ function toogleMenu( button, hmg, closeBtn, menu)
         const button = document.querySelector('.toggler');
         const hmg  = document.querySelector('#hmg');
         const closeBtn = new Image();
-        closeBtn.src = "../assets/icons/Plus_icon.svg";
+        closeBtn.src = "./assets/icons/Plus_icon.svg";
         closeBtn.classList.add('moins');
         toogleMenu(button, hmg, closeBtn, menu);
 
@@ -28,7 +28,7 @@ function toogleMenu( button, hmg, closeBtn, menu)
         const button1 = document.querySelector('.toggler1');
         const hmg1  = document.querySelector('#hmg1');
         const closeBtn1 = new Image();
-        closeBtn1.src = "../assets/icons/Plus_icon.svg";
+        closeBtn1.src = "./assets/icons/Plus_icon.svg";
         closeBtn1.classList.add('moins');
         toogleMenu(button1, hmg1, closeBtn1, menu1);
 
@@ -36,7 +36,7 @@ function toogleMenu( button, hmg, closeBtn, menu)
         const button2 = document.querySelector('.toggler2');
         const hmg2  = document.querySelector('#hmg2');
         const closeBtn2 = new Image();
-        closeBtn2.src = "../assets/icons/Plus_icon.svg";
+        closeBtn2.src = "./assets/icons/Plus_icon.svg";
         closeBtn2.classList.add('moins');
         toogleMenu(button2, hmg2, closeBtn2, menu2);
 
@@ -44,7 +44,7 @@ function toogleMenu( button, hmg, closeBtn, menu)
         const button3 = document.querySelector('.toggler3');
         const hmg3  = document.querySelector('#hmg3');
         const closeBtn3 = new Image();
-        closeBtn3.src = "../assets/icons/Plus_icon.svg";
+        closeBtn3.src = "./assets/icons/Plus_icon.svg";
         closeBtn3.classList.add('moins');
         toogleMenu(button3, hmg3, closeBtn3, menu3);
 
@@ -52,7 +52,7 @@ function toogleMenu( button, hmg, closeBtn, menu)
         const button4 = document.querySelector('.toggler4');
         const hmg4  = document.querySelector('#hmg4');
         const closeBtn4 = new Image();
-        closeBtn4.src = "../assets/icons/Plus_icon.svg";
+        closeBtn4.src = "./assets/icons/Plus_icon.svg";
         closeBtn4.classList.add('moins');
         toogleMenu(button4, hmg4, closeBtn4, menu4);
 
@@ -60,7 +60,7 @@ function toogleMenu( button, hmg, closeBtn, menu)
         const button5 = document.querySelector('.toggler5');
         const hmg5  = document.querySelector('#hmg5');
         const closeBtn5 = new Image();
-        closeBtn5.src = "../assets/icons/Plus_icon.svg";
+        closeBtn5.src = "./assets/icons/Plus_icon.svg";
         closeBtn5.classList.add('moins');
         toogleMenu(button5, hmg5, closeBtn5, menu5);
 

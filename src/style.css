@@ -1,4 +1,4 @@
-@media (max-width: 360px) {
+@media (max-width: 390px) {
     p.menup{
         font-size: 1em !important;
     }
@@ -10,5 +10,10 @@
     #hmg5,
     .moins{
         width: 300%;
+    }
+
+    p.car
+    {
+        font-size: 80%;
     }
 }

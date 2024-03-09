@@ -1,3 +1,9 @@
+@media (max-width: 2000px)
+{
+ .autoplay {
+     max-width: 50%;
+ }
+}
 @media (max-width: 390px) {
     p.menup{
         font-size: 1em !important;
